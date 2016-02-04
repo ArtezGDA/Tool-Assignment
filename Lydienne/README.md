@@ -6,7 +6,7 @@
 Iphone Color Picker App
 
 Een Color Picker App voor je iPhone, makkelijk te gebruiken en altijd bij de hand.
-Met de iPhone lens maak je een foto, de foto kunt je inkomen tot pixel blokken.
+Met de iPhone lens maak je een foto, de foto kunt je inzomen tot pixel blokken.
 selecteer de pixelblok/kleur die je wilt en klik op opslaan.
 Als je de kleur opsla krijg je een bestand binnen de app met de foto, geselecteerde kleur en de kleurcode in 3 verschillende kleursystemen.
 
