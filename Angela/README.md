@@ -30,7 +30,7 @@ Je zou kunnen zeggen dat je het alphabet telkens gaat herhalen binnen die waarde
 Maar het kan ook zo:
 Alle leestekens samen is 65. 255:65=3.92 ronden we af tot 3.
 
-0-3=a 4-6=b 7-9=c etc.etc.
+0-3=a 4-6=b 7-9=c etc.etc. (Het is eigenlijk wat ingewikkelder, maar dit is een begin).
 
 ### Prototype
 
