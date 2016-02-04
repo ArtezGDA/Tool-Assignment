@@ -27,6 +27,11 @@ Je zou kunnen zeggen dat je het alphabet telkens gaat herhalen binnen die waarde
 
 58-84 = a-z, 85-95 = 0-9, 96-125 = ,./?;:'"\|[]{}+=_-()*&^%$#@!€ etc.etc
 
+Maar het kan ook zo:
+Alle leestekens samen is 65. 255:65=3.92 ronden we af tot 3.
+
+0-3=a 4-6=b 7-9=c etc.etc.
+
 ### Prototype
 
 ## Your Own Tool
