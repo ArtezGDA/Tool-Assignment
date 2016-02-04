@@ -5,6 +5,7 @@ When you’re getting too comfortable using the same colours over and over again
 
 ### Concept & Sketch
 [in software](cp_inprog.png)
+<br>
 ![](cp_sidebar.png)
 ### Prototype
 
