@@ -11,6 +11,8 @@ Uiteindelijk kan je de uitgekozen kleuren uitprinten en daaruit de passende kleu
 
 De kleuren worden gedefineerd als RAL of Pantone.
 
+![](ral-farben-spektrum.png)
+
 
 ### Prototype
 
