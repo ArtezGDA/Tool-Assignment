@@ -2,11 +2,29 @@
 
 ## Color Picker
 
-### Concept & Sketch
+----
+### Concept
+Most of us can see color, but what would happen if we translate colors into sound? We listen to music by playing lp's on a turntable and store them in their slipcover. This color picker translates the picks the colors that are presented on the slipcover instead of the sounds on your lp. With this you are able to not only listen to your lp's but also the slipcover. Does it fit with the sounds of your genre?
 
+The needle of the turntable will be replaced with an new object which is linked to an Arduino and will send the the information to your turntable which will play the sounds immediately. 
+
+The Color picker picks the color based on the Color Theory from Alexander Scriabin. Inspired by Artificial Synesthesia/Chromesthesia.
+###Sketch
+![image](sketch-01.jpg =600x)
+![](sketch-02.jpg =600x)
 ### Prototype
 
+#####[Movie](Sketch-03.mov)
+
+![image](Moviepreview1.jpg =600x)
+![image](Moviepreview.jpg =600x)
+![image](Moviepreview2.jpg =600x)
+
+
+
+
 ## Your Own Tool
+----
 
 ### Concept
 
