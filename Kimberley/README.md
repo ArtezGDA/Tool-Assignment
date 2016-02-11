@@ -10,16 +10,16 @@ The needle of the turntable will be replaced with an new object which is linked 
 
 The Color picker picks the color based on the Color Theory from Alexander Scriabin. Inspired by Artificial Synesthesia/Chromesthesia.
 ###Sketch
-![image](sketch-01.jpg)
-![](sketch-02.jpg)
+![](Pictures/sketch-01.jpg)
+![](Pictures/sketch-02.jpg)
 ### Prototype
 
 #####[Movie](Sketch-03.mov)
 ~~Privacy code: Video ~~
 
-![image](Moviepreview1.jpg)
-![image](Moviepreview.jpg)
-![image](Moviepreview2.jpg)
+![](Pictures/Moviepreview1.jpg)
+![](Pictures/Moviepreview.jpg)
+![](Pictures/Moviepreview2.jpg)
 
 
 
