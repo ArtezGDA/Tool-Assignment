@@ -5,6 +5,7 @@
 ### Concept & Sketch
 
 ### Prototype
+![GIF Prototype ](Marleen/ArtEZ_DM_Colorpicker_uitleg.gif)
 
 ## Your Own Tool
 
