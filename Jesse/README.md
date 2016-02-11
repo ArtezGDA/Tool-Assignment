@@ -13,8 +13,13 @@ De kleuren worden gedefineerd als RAL of Pantone.
 
 ![](ral-farben-spektrum.png)
 
-
 ### Prototype
+
+![](mcdonalds.png)
+![](red.png)
+![](yellow.png)
+![](voorbeeld.png)
+
 
 ## Your Own Tool
 
