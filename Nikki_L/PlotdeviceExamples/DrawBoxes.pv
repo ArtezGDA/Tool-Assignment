@@ -1,0 +1,81 @@
+# Adjust the screen size for full screen
+# size(1280, 800)
+size(500, 500)
+speed(30)
+
+def setup():
+    # px/py are the previous mouse coordinates.
+    global px, py
+    px, py = 0, 0
+    global dragging
+    dragging = False
+
+    # currentBox is the box which is currently drawn
+    global currentBox
+    currentBox = Region(0,0,0,0)
+    
+    # boxeslist is the list of boxes we created by dragging the mouse.
+    global boxeslist
+    boxeslist = []
+
+def draw():
+    global px, py
+    global dragging
+    global currentBox
+    global boxeslist
+
+    # For each frame, set the background color to a darkish blue.
+    background(0.4, 0.4, 0.4)
+
+    if mousedown and not dragging:
+        dragging = True
+        # Dragging started
+        print "start dragging"
+        # Record start position of the box
+        currentBox.x = MOUSEX
+        currentBox.y = MOUSEY
+
+    # Only draw a new point if the mouse has moved, which means the current mouse
+    # position is different from the previous one.
+    # You can append "and mousedown" to the if statement to only draw points when
+    # you hold down the mouse button. If you do, try clicking to get lines.
+    if MOUSEX != px and MOUSEY != py and dragging:
+        px, py = MOUSEX, MOUSEY
+        boxSize = Size(currentBox.x - px, currentBox.y - py)
+        currentBox.size = -boxSize 
+
+    if not mousedown and dragging:
+        dragging = False
+        # Dragging stopped
+        print "stop dragging"
+        boxeslist.append(currentBox)
+        currentBox = Region(0,0,0,0)
+
+    # Draw current box
+    # Set the correct color, a light blue.
+    nofill()
+    stroke(0.8, 0.8, 1.0)
+    strokewidth(2)
+    rect(currentBox)
+    
+    # Draw all boxes
+    nofill()
+    stroke(0.6, 0.6, 0.6)
+    strokewidth(2)
+    for box in boxeslist:
+        rect(box)
+
+    # In full screen mode: draw the mouse pointer
+    #drawMousePointer()
+
+def drawMousePointer():
+    # Draw a mouse pointer (not shown in fullscreen)
+    nofill()
+    stroke(1)
+    strokewidth(4)
+    line(MOUSEX - 11, MOUSEY, MOUSEX + 11, MOUSEY)
+    line(MOUSEX, MOUSEY - 11, MOUSEX, MOUSEY + 11)
+    stroke(0)
+    strokewidth(2)
+    line(MOUSEX - 10, MOUSEY, MOUSEX + 10, MOUSEY)
+    line(MOUSEX, MOUSEY - 10, MOUSEX, MOUSEY + 10)

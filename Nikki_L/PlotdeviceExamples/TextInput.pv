@@ -1,0 +1,51 @@
+size(500, 500)
+speed(30)
+
+def setup():
+    global wasKeydown
+    global prevCode
+    global inputText
+    global availableCharacters
+    wasKeydown = False
+    prevCode = 0
+    inputText = ""
+    availableCharacters = [
+            "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", 
+            "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", 
+            "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0",
+            " ",
+            "`", "~", ",", ".", "/", "<",
+            ">", "?", ";", "'", "\\", ":", '"', "|"
+            "[", "]", "{", "}", "§", "±", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "_", "+", "-", "="
+        ]
+
+def draw():
+    global wasKeydown
+    global prevCode
+    global inputText
+    global availableCharacters
+
+
+    # For each frame, set the background color to a darkish blue.
+    background(0.8, 0.8, 0.8)
+
+    if keydown:
+        if not wasKeydown or keycode != prevCode: 
+            print "key was down"
+            prevCode = keycode
+            wasKeydown = True
+            # be able to backspace
+            if keycode == KEY_BACKSPACE:
+                inputText = inputText[:-1]
+            elif key in availableCharacters:
+                inputText += key
+            
+    if not keydown and wasKeydown:
+        wasKeydown = False
+        
+    # Draw current text
+    nofill()
+    fill(0)
+    if len(inputText) > 0:
+        text(inputText, 10, 100)
+
