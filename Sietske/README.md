@@ -17,8 +17,8 @@ De kleuren kunnen bestaan uit CMYK, RGB, Hex etc.
 ### Concept
 Een random tool voor Adobe inDesign voor het random zetten van je tekst en/of beelden, figuren in je document.
 
-### Sketch
-
+### Sketch 
+[![prototype video on vimeo](prototype-vimeo.png)](https://vimeo.com/158453880)
 
 
 ### Demo
