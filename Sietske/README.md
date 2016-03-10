@@ -15,10 +15,11 @@ De kleuren kunnen bestaan uit CMYK, RGB, Hex etc.
 ## Your Own Tool
 
 ### Concept
-Een random tool voor als je verschillende woorden/teksten random op je poster etc wilt in bijvoorbeeld Adobe inDesign. 
+Een random tool voor Adobe inDesign voor het random zetten van je tekst en/of beelden, figuren in je document.
 
+### Sketch 
+[![prototype video on vimeo](prototype-vimeo.png)](https://vimeo.com/158453880)
 
-### Sketch
 
 ### Demo
 
