@@ -21,9 +21,14 @@ But.. most of the time, your design will surpass your screen and be printed on p
 ####[Demo](https://vimeo.com/159070718)
 password: MediaDesign2016
 
+![](img/scherm_01.png)
+![](img/scherm_02.png)
+![](img/scherm_03.png)
+![](img/scherm_04.png)
 
 
 ## Your Own Tool
+
 
 ### Concept
 
