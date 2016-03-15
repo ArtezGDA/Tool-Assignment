@@ -29,10 +29,25 @@ password: MediaDesign2016
 
 ## Your Own Tool
 
-
 ### Concept
 
+NoteHelper
+
+With this app, the computer can finally help you making your notes. In comparison to making notes in a analog way, the computer can assist you in many ways. With this app, you can compare certain words in your current note with previous notes that you have written. 
+
+This can boost the information you are writing. Maybe some previous brainwaves you had a couple of months back, can help you with your current project or idea. 
+
 ### Sketch
+####MindMap App Sketches
+![](img/mindmapapp-1.jpg)
+![](img/mindmapapp-2.jpg)
+
+#####NoteHelper App Sketches
+![](img/noteapp-1.jpg)
+![](img/noteapp-2.jpg)
+![](img/noteapp-3.jpg)
+
+
 
 ### Demo
 
