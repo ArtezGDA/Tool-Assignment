@@ -18,7 +18,8 @@ But.. most of the time, your design will surpass your screen and be printed on p
 
 ### Prototype
 
-####[Demo](demo_01.mp4)
+####[Demo](https://vimeo.com/159070718)
+password: MediaDesign2016
 
 
 
