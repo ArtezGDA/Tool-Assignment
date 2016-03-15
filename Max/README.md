@@ -19,7 +19,7 @@ But.. most of the time, your design will surpass your screen and be printed on p
 ### Prototype
 
 ####[Demo](https://vimeo.com/159070718)
-password: MediaDesign2016
+Password: MediaDesign2016
 
 ![](img/scherm_01.png)
 ![](img/scherm_02.png)
@@ -50,6 +50,9 @@ This can boost the information you are writing. Maybe some previous brainwaves y
 
 
 ### Demo
+####[Demo](https://vimeo.com/159078312)
+
+Password: MediaDesign2016
 
 ### How to install and use
 
