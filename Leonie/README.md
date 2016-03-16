@@ -42,13 +42,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-### Concept & Sketch
-
-### Prototype
-
 ## Your Own Tool
 
+###analysis of current status
+
+when you want to create a cool pattern to use for for instance illustrater you can use the standard pattern maker that illustrater has. But i think that that is a really limeted, the patterns are boring and too equal and there is no contrast in it. 
+![Text-IO](analyse.png)
 ### Concept
+
 
 ### Sketch
 
