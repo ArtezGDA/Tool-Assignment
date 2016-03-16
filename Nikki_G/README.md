@@ -27,7 +27,7 @@ For my concentration I always put a film on the background, I listen to the film
 
 ```
 IDEA 2
-When you're realy busy with homework or an assignment, you sometimes get in a brainless workflow, so your brains need to fresh up. I wanted to make a tool where everey 15 minutes you need to reactivate your brain, so you don't come in a brainless workflow. 
+When you're realy busy with homework or an assignment, you sometimes get in a brainless workflow, so your brains need to fresh up. I wanted to make a tool where everey 15 minutes you need to reactivate your brain, so you don't come in a brainless workflow. Your brain get reactivated by this tool! 
 ```
 
 ### Sketch
@@ -63,7 +63,31 @@ Choosen screen 3
 
 ### Demo
 
+####[Tool](Tool.scpt)
+
+![Tool-Assignment](T01.png)
+
+"80"
+
+![Tool-Assignment](T02.png)
+
+"Oke"
+
+![Tool-Assignment](T03.png)
+
+"Sylvia"
+
+![Tool-Assignment](T04.png)
+
+"Oke"
+
+#####[Tool Possebility 2](Tool01.scpt)
+
 ### How to install and use
+
+```
+Install it as a app, that is running on the background of your computer. So every 15 minutes there will be a pop-up with a math quiestion, if you have it wrong you need to answer a new quiestion till the 4th, so you can reactivate your brain. 
+```
 
 ## Other Homework
 
