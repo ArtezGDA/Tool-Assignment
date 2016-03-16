@@ -29,7 +29,7 @@ Here a small visualization of the tool how it should work.
 <br>
 [1st Code](http://pastebin.com/AnncccLU)
 <br>
-The problem was that i couldn't find our how i could link buttons to each other. This made it more difficult to create the loop.
+The problem was that i couldn't find out how i could link buttons to each other. This made it more difficult to create the loop.
 <br>
 [2nd Code](http://pastebin.com/gk3R3ehW)
 <br>
@@ -46,12 +46,15 @@ When i found out how to link all the buttons with a [flowchart](2_flowchart.png)
 <br>
 When I talked about this piece of code with our Timebased Media teacher Donna Verheijden. She thought it would be good to make more use of applescript and try to look in the possibilities. With these pop-up messages you could also make some video's pop-up. Video's that are relevant to the topic. To make the visualization more living.
 <br>
-[5th Code](http://pastebin.com/nsqHP6c4) 
+[5th Code (work in progress)](http://pastebin.com/nsqHP6c4) 
 ### How to install and use
-For this tool you will need AppleScript Editor, this is pre-installed on every Mac/Macbook. Just in case, the tool is created on MacOS X El Capitan Version 10.11.3. When you encounter some failures in applescript you could try to solve this with making your Mac up to date to the same version. 
+For this tool you will need AppleScript Editor, this is pre-installed on every Mac/Macbook. You can open this by pressing CMD + Spacebar and type "AppleScript Editor" and press enter. Copy and paste the code from here and press the play button to run the script! 
 <br>
 <br>
-Are you a windows-user and still want to see what is happening in this script? I recommend you use A Virtual Machine or a second OS on your laptop. With a virtual machine you can virtually run a Mac OS X without even installing it. A example for a virtual machine can you find [here](http://www.vmware.com).
+Just in case, the tool is created on MacOS X El Capitan Version 10.11.3. When you encounter some failures in applescript you could try to solve this with making your Mac up to date to the same version. 
+<br>
+
+Are you a windows-user and still want to see what is happening in this script? I recommend you use A Virtual Machine or a second OS on your laptop. With a virtual machine you could virtually run a Mac OS X without even installing it. A example for a virtual machine can you find [here](http://www.vmware.com).
 
 #### License
 The MIT License (MIT)
