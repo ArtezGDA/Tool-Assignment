@@ -32,13 +32,55 @@ The Color picker picks the color based on the Color Theory from Alexander Scriab
 ## Your Own Tool
 ----
 
-### Concept
+###NOSArticleScraper
+
+`NOSArticleScraper`is a tool to not use the ctrl+c and ctrl+v anymore when you want to use text or images of an article on the web. 
+
+#### NOSArticleScraper?
+
+NOSArticleScraper is a tool where you can choose an article of NOS (www.nos.nl). And easily archive all the content of the article on your computer, ready for use. When you copy the url of the chosen article you can place this in the code. The code will make an folder called NOS on your Desktop and it will be filled with articles of choice. 
+
+In the folder named NOS will be a folder called img and a .txt file. The .txt file will be filled with the content of the article. The img folder will contain all the images of the chosen article. 
+
+The .txt file contains: 
+
+- Date time
+- Extra Date time information
+- Title 
+- URL of picture
+- Article text
+
+
 
 ### Sketch
 
+
+
 ### Demo
+#####[Movie](Sketch-03.mov)
+<br>
+[Movie on Vimeo](https://vimeo.com/154961098)
+<br>
+~~Privacy code: Video ~~
+
 
 ### How to install and use
+To use `NOSArticleScraper`you should have:
+#####Python requests: 
+http://docs.python-requests.org/en/master/
 
-## Other Homework
+#####BeautifulSoup Library: 
+http://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+
+<br>
+Open the NOSArticleScraper.py and place the url between the ".."
+
+
+```
+url = ".."
+```
+ 
+click cmd+r or Run and you have it, your NOSArticleScraper is working and the files should be located on your desktop. 
+
 
