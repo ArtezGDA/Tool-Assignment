@@ -49,7 +49,17 @@ SOFTWARE.
 when you want to create a cool pattern to use for for instance illustrater you can use the standard pattern maker that illustrater has. But i think that that is a really limeted, the patterns are boring and too equal and there is no contrast in it. 
 ![Text-IO](analyse.png)
 ### Concept
+A tool to create extraordinairy patterns with surprising elements. As crazy as you want them to be. You work with a synthesizer where you can decide the shape of the figure you are going to use for the pattern. 
+The options are:
 
+- shape (round-square)
+- height (long-short)
+- width (thick-thin)
+- size (big-small)
+- randomness (random-normal)
+- density (dense-clear)
+
+while the pattern is being made, you can change the signals and thus the shape ore the density so your pattern will be different everytime you make one. 
 
 ### Sketch
 
