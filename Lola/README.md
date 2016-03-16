@@ -18,6 +18,8 @@ When this happens with all the 9 different its creates 36 new colours en 36 new 
 
 ### Prototype
 
+[prototype](demo_colourpickertool.mov)
+
 ## Your Own Tool
 
 ### Concept
@@ -38,6 +40,8 @@ This is possible with all the 9 different short keys.
 ### Sketch
 
 ### Demo
+
+[demo](demo_indesign_tool.mov)
 
 ### How to install and use
 
