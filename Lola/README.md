@@ -39,6 +39,25 @@ This is possible with all the 9 different short keys.
 
 ### Sketch
 
+sketch cmd 1 ![Tool-Assignment](sketsges1-01.jpg)
+
+sketch cmd 2 ![Tool-Assignment](sketsges1-02.jpg)
+
+sketch cmd 3 ![Tool-Assignment](sketsges1-03.jpg)
+
+sketch cmd 4 ![Tool-Assignment](sketsges1-04.jpg)
+
+sketch cmd 5 ![Tool-Assignment](sketsges1-05.jpg)
+
+sketch cmd 6 ![Tool-Assignment](sketsges1-06.jpg)
+
+sketch cmd 7 ![Tool-Assignment](sketsges1-07.jpg)
+
+sketch cmd 8 ![Tool-Assignment](sketsges1-08.jpg)
+
+sketch cmd 9 ![Tool-Assignment](sketsges1-09.jpg)
+
+
 ### Demo
 
 [demo](demo_indesign_tool.mov)
