@@ -30,6 +30,11 @@ This tool is for being able to have a preview in your finder of indesign files. 
 
 ### Demo
 
+![](img/Step_1.jpg)
+![](img/Step_2.jpg)
+![](img/Step_3.jpg)
+![](img/Step_4.jpg)
+
 ### How to install and use
 
 ## Other Homework
