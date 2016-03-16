@@ -174,7 +174,7 @@ Door de foto op te slaan kun je later ook andere kleuren uit de foto halen.
 Door het een draagbare app te maken, kun je op elk moment interessante kleuren uit je omgeving opslaan in je kleuren database. 
 ### Prototype
 
-[Tab converter demo](Wired.gif)
+[IPhone and Photoshop color picker](color_picker_2.gif)
 ## Your Own Tool
 
 ### Concept
