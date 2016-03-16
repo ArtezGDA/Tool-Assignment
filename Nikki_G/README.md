@@ -34,7 +34,7 @@ When you're realy busy with homework or an assignment, you sometimes get in a br
 
 <br>
 ####Sketches for idea 1
-![Tool-Assignment](schets01.pdf)
+![Tool-Assignment](schets02.png)
 
 [Demo Floating Browser](DemoNetflix.mov)
 
