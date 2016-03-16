@@ -185,8 +185,7 @@ Het is mogelijk om door het pdf heen te scrollen en de informatie van de website
 ### Sketch
 
 ### Demo
-[Tab converter](Wired.gif)
-
+[Tab converter](Wired.gif)  
 [Output PDF](Wired.com_Tabs.pdf)
 
 
