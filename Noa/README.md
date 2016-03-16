@@ -15,6 +15,8 @@ My concept for the color picker was being able to save a color from a webpage. T
 ![](img/scherm_4.jpg)
 ![](img/scherm_5.jpg)
 ![](img/scherm_6.jpg)
+![](img/scherm_7.jpg)
+![](img/scherm_8.jpg)
 
 ## Your Own Tool
 
