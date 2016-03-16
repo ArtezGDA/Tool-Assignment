@@ -26,18 +26,22 @@ This is an applescript that is being used as some sort of application or program
 Here a small visualization of the tool how it should work.
 <br>
 [1st Attempt](https://www.youtube.com/watch?v=CgvVjsEALTo) 
+<br>
 [1st Code](http://pastebin.com/AnncccLU)
 <br>
 The problem was that i couldn't find our how i could link buttons to each other. This made it more difficult to create the loop.
 <br>
 [2nd Code](http://pastebin.com/gk3R3ehW)
-[1st flowwchart](1_flowchart.png) 
+<br>
+[1st flowchart](1_flowchart.png) 
 <br>
 When i found out how to link all the buttons with a [flowchart](2_flowchart.png) and for example "on my_negeer" i could connect the dots.
 <br>
 ### Demo
 [2nd Attempt](https://youtu.be/0K055z--O1M)
+<br>
 [3rd Code](http://pastebin.com/KUyD3Xc7)
+<br>
 [4th Code](http://pastebin.com/pUwdQMvG)
 <br>
 When I talked about this piece of code with our Timebased Media teacher Donna Verheijden. She thought it would be good to make more use of applescript and try to look in the possibilities. With these pop-up messages you could also make some video's pop-up. Video's that are relevant to the topic. To make the visualization more living.
@@ -48,5 +52,16 @@ For this tool you will need AppleScript Editor, this is pre-installed on every M
 <br>
 <br>
 Are you a windows-user And still want to see what is happening in this script? I recommend you use A Virtual Machine or a second OS on your laptop. With a virtual machine you can virtually run a Mac OS X without even installing it. A example for a virtual machine can you find [here](http://www.vmware.com).
+
+#### License
+The MIT License (MIT)
+
+Copyright (c) 2016 Graphic Design Arnhem at ArtEZ Academy
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
