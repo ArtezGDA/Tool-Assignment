@@ -186,6 +186,7 @@ Het is mogelijk om door het pdf heen te scrollen en de informatie van de website
 
 ### Demo
 [Tab converter](Wired.gif)
+[Output PDF](Wired.com_Tabs.pdf)
 
 ### How to install and use
 U kunt gebruik maken van de script door het in een finder-venster menu te plaatsen. Wanneer u een browser heeft met veel tabs, hoef u simple web op de script icon te klikken en de pdf word geconverteert.
