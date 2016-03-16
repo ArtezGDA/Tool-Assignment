@@ -9,7 +9,7 @@ How to install this tool?
 <br>
 2. When found click the download button in the upper-left corner.
 <br>
-3. 
+3. You will follow a wizard that helps you through the installation.
 
 
 ### Concept & Sketch
@@ -51,7 +51,7 @@ When I talked about this piece of code with our Timebased Media teacher Donna Ve
 For this tool you will need AppleScript Editor, this is pre-installed on every Mac/Macbook. Just in case, the tool is created on MacOS X El Capitan Version 10.11.3. When you encounter some failures in applescript you could try to solve this with making your Mac up to date to the same version. 
 <br>
 <br>
-Are you a windows-user And still want to see what is happening in this script? I recommend you use A Virtual Machine or a second OS on your laptop. With a virtual machine you can virtually run a Mac OS X without even installing it. A example for a virtual machine can you find [here](http://www.vmware.com).
+Are you a windows-user and still want to see what is happening in this script? I recommend you use A Virtual Machine or a second OS on your laptop. With a virtual machine you can virtually run a Mac OS X without even installing it. A example for a virtual machine can you find [here](http://www.vmware.com).
 
 #### License
 The MIT License (MIT)
