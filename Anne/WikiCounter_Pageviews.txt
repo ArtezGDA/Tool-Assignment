@@ -1,0 +1,30 @@
+String[] articles = {""Aabach", "Aabel", "Aabye", "Aang", "Aantjes", 
+"A&D_Company", "A&D_Wejchert_&_Partners_Architects", "A&E", "A&E_(Spain_and_Portugal)",”Alberta_Park", "1018_Arnolda""};
+
+void setup() {
+
+
+    for (int i = 0; i < articles.length; i++) {
+
+        String article = articles[i];
+
+        String start = "20160101"; 
+        String end = "20170101"; 
+
+        // documentation: https://wikimedia.org/api/rest_v1/?doc#!/Pageviews_data/get_metrics_pageviews_per_article_project_access_agent_article_granularity_start_end
+        String query = "http://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/all-agents/"+article+"/daily/"+start+"/"+end;
+
+        JSONObject json = loadJSONObject(query);
+        JSONArray items = json.getJSONArray("items");
+
+        int totalviews = 0;
+
+        for (int j = 0; j < items.size(); j++) {
+            JSONObject item = items.getJSONObject(j);
+            int views = item.getInt("views");
+            totalviews += views;
+        }
+
+        println(article+" "+totalviews);
+    }
+}
