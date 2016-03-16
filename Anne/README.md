@@ -19,7 +19,7 @@ Met de "Air Cloud Color Picker" app (te downloaden in de Appstore) kan je kleur 
 ### Concept
 
 ```
-Concept Own Tool
+Concept Own Tool ("WikiCounter")
 
 Met de “WikiCounter” app kan je zien welke artikelen op Wikipedia de laagste page view statistieken hebben. Door bijvoorbeeld het getal 5 in te voeren (het getal moet tussen de 0 en de 100 zijn) kan je zien hoeveel artikelen er 5 bekeken zijn, in dat jaar. Volgens kan je de lijst, met de URL’s van de artikelen downloaden als txt. bestand.  
 
