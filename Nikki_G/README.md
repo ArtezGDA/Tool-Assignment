@@ -82,6 +82,11 @@ Choosen screen 3
 "Oke"
 
 #####[Tool Possebility 2](Tool01.scpt)
+```
+display dialog "In de speeltuin kun je ijsjes kopen voor €1,25 per stuk. Als Bas 4 ijsjes koopt voor hemzelf en zijn vrienden, en betaalt met een biljet van €10,-, hoeveel geld krijgt hij dan terug?" buttons {"€1,25", "€4", "€5"}set theAnswer to button returned of the resultif theAnswer is "€5" then	display dialog "Goed gedaan!" buttons {"oke"}	returnelse	display dialog "Fout, nog een vraag!" buttons {"Oke"}	end ifdisplay dialog "In een pikdonkere kamer ligt een schaal met 11 knikkers: 2 rode, 3 paarse, 4 gele en 2 blauwe knikkers. Hoeveel knikkers moet je pakken om er zeker van te zijn dat je minimaal 2 knikkers van dezelfde kleur hebt?" buttons {"3", "4", "5"}set theAnswer to button returned of the resultif theAnswer is "5" then	display dialog "Goed gedaan!" buttons {"Oke"}	returnelse	display dialog "Fout, nog een vraag" buttons {"Oke"}end ifdisplay dialog "Wat is het volgende cijfer?
+256 - 128 - 64 - 32 - 16 - ..." buttons {"4", "6", "8"}set theAnswer to button returned of the resultif theAnswer is "8" then	display dialog "Goed gedaan!" buttons {"Oke"}	returnelse	display dialog "Fout, maar nu is het goed geweest" buttons {"Oke"}	end if
+```
+
 
 ### How to install and use
 
