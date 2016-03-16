@@ -57,7 +57,14 @@ The .txt file contains:
 
 
 ### Sketch
+![](Pictures/Sketch-Scraper.jpg)
 
+
+### Demo Screenshots Output
+![](Pictures/Screenshot4.jpg)
+![](Pictures/Screenshot3.jpg)
+![](Pictures/Screenshot2.jpg)
+![](Pictures/Screenshot1.jpg)
 
 
 ### Demo
