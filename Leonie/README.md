@@ -15,6 +15,8 @@ first choose how many colors you want to define, and thus how long you want to p
 there will be a circle filled with a color and a textbox. Click on the textbox and define the color, try to be as specific as possible. When you defined the color properly, push the circle and the next color will come. This will go on untill all colors are defined. 
 Then you will see an overview of all colors. If you want to see how the colors are defined by other players and different brands then just click on a color you want to see. If you want to start again just click on the home button and start all over. 
 
+
+![Text-IO](prototypecolor1.png)
 #####dependencies
 
 #####The MIT License (MIT)
