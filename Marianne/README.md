@@ -107,6 +107,42 @@ for block in t.flow(2):
 ```
 
 
+WORKING SCRIPT >
+Insert url and rich texts gets transformed in A5-pdf.
+[WORKING SCRIPT, COMBINED SCRAPING AND LAYOUT](WERKEND.pv)
+
+from bs4 import BeautifulSoup
+import urllib
+
+
+```
+
+size(420, 595)
+r = urllib.urlopen('http://www.vice.com/nl/read/kan-een-lettertype-racistisch-zijn-090').read()
+soup = BeautifulSoup(r)
+
+
+letters = soup.find_all("div", class_="article-content rich-text")
+
+artikel = letters[0]
+txt = artikel.text
+
+
+font('Minion Pro', 10)
+
+
+
+# layout(spacing=0) # add 1 lineheight of extra space
+# text(220,30, 175, str=txt)
+
+
+t = text(25,30 , 175, 555, str=txt)
+for block in t.flow(2):
+    block.x += block.width + 20
+
+```
+
+
 ### Demo
 
 [Movie on Vimeo](https://vimeo.com/159336373) 
@@ -115,6 +151,7 @@ ww: prototype
 
 
 ### How to install and use
+
 
 Programs required:
 python
