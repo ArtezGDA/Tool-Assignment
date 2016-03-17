@@ -63,9 +63,23 @@ while the pattern is being made, you can change the signals and thus the shape o
 
 ### Sketch
 
+[square pattern](Leonie/redline2.pv)
+
+https://www.youtube.com/watch?v=i2ZXSq2XwdQ&feature=youtu.be
+
+[oval pattern](Leonie/redline3.pv)
+
+
+
 ### Demo
+
 
 ### How to install and use
 
-## Other Homework
+Open the partypatternmaker. 
+Make your starting shape by using the panel, when you are satisfied with the shape you push the play/pause button. The red bar in the preview screen is going to move and from now on you can turn the signs to change your shape while the pattern is created. 
+The bar will come again and create a new layer with shapes. This will happen untill you press the play/pause button again. Now you can save your pattern to import it in for instance indesign ore illustrator.
+Then you can develop your pattern by pushing the play/pause button again and turning the signs. Or you double push the button to start with a blanc canvas. 
+
+
 

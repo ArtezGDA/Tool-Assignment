@@ -1,0 +1,38 @@
+ 
+
+def setup():
+    background(0.9)    
+    global frame
+    global shapes
+    frame = 0
+    shapes = []
+
+def draw():
+    global frame
+    global shapes
+    frame += 2
+    x = frame % WIDTH
+    
+    # Draw red line
+    stroke(255, 0, 0)
+    line(x, 0, x, HEIGHT)
+    
+    # Draw stored shapes
+    nostroke()
+    fill(0.7)
+    for s in shapes:
+        oval(s)
+    
+    # Draw current shape
+    nostroke()
+    fill(0)
+    if frame % 1 == 0:
+        for i in range(16):
+            y = i * 32
+            oval(x, y, MOUSEX / 32, MOUSEY / 32)
+            
+    # Save the shapes every 32th frame
+    if frame % 32 == 0:
+        for i in range(16):
+            y = i * 32
+            shapes.append(Region(x, y, MOUSEX / 32, MOUSEY / 32))
