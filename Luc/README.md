@@ -20,7 +20,7 @@ See which filetypes are due when. Automatically open file at set time.
 
 ### Sketch
 
-[Imgur](http://i.imgur.com/L8EiWYh.png "Sketch")
+(http://i.imgur.com/L8EiWYh.png")
 
 ### Demo
 
