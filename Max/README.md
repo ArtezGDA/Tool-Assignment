@@ -66,7 +66,29 @@ This can boost the information you are writing. Maybe some previous brainwaves y
 
 Password: MediaDesign2016
 
+### How to install and use
 
+#####installation
+You have to download the Notehelper.workflow and drag it into your services map. This way it will show in the services folder in your Text Edit. 
+
+#####Usage
+First you have to have a map which contain all of your notes that you want to make searchable. After you have done this, you will want to open your Text Edit. When you want to begin your comparison, you'll either have to write a text that you want to compare or you'll have to open a document that you have written earlier. In this example we opened a text document.
+You have to select a word that you want to compare with your previous notes like so:
+
+![](img/scherm1.png)
+
+Then you have to right click your selected word and select "Notehelper" in the dropdown menu, like so:
+
+![](img/scherm2.png)
+
+This will give you a finder menu in which it will show your map with your notes and a selection of the files that contain the word you have selected. This is an example:
+![](img/selection.png)
+
+You can now open one or more of these files so you can compare the notes and write even beter texts!
+
+
+
+###License
 #####The MIT License (MIT)
 
 Copyright (c) 2016 Graphic Design Arnhem at ArtEZ Academy
@@ -76,7 +98,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-### How to install and use
+
 
 ## Other Homework
 
