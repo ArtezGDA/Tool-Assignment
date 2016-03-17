@@ -72,6 +72,18 @@ if the link doesnt work, this is another link to a youtube video:
 [demo indesign tool](https://youtu.be/xR0k8yGc604)
 
 
+### proof of concept
+
+The tool works on javascript. 
+Indesign has al kinds of different codes a
+
+example code 1 ![Tool-Assignment](code1.js)
+
+example code 2 ![Tool-Assignment](code2.js)
+
+example code 3 ![Tool-Assignment](code3.js)
+
+
 ### How to install and use
 
 For this tool you need :
@@ -83,11 +95,7 @@ For this tool you need :
 The Indesign photo editor” package consist of an README file and some codes that you need to use to install the action.
 
 
-example code 1 ![Tool-Assignment](code1.js)
 
-example code 2 ![Tool-Assignment](code2.js)
-
-example code 3 ![Tool-Assignment](code3.js)
 
 
 
