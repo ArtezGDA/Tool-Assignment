@@ -28,7 +28,6 @@ Daarom is er de color picker for movies, doormiddel van gewoon op pauze te klikk
 
 ### Demo
 
-
 [demo color picker for movies](https://vimeo.com/159327212)
 
 ### How to install and use
