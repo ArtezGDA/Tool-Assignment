@@ -57,7 +57,7 @@ void movieEvent(Movie m) {
   m.read();
 
 ### Prototype
-
+![Tool-Assignment](colourpicker.png)
 
 ## Your Own Tool
 
