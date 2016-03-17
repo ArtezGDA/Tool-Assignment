@@ -67,7 +67,7 @@ I made a social media destroyer. It frustrates your workflow very well when you 
 ### Sketch
 
 ### Demo
-https://www.youtube.com/watch?v=-DxyWjwge9Q&feature=youtu.be
+https://www.youtube.com/watch?v=789b0QOp3aE&feature=youtu.be
 
 ![Tool-Assignment](socialmedia_destroyer1.png)
 ![Tool-Assignment](socialmedia_destroyer4.png)
