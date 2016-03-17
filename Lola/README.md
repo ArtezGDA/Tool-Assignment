@@ -110,13 +110,6 @@ The Indesign photo editor” file consist of an README file and 3 codes that you
 
 
 
-
-
-
-
-
-
-
 #### License
 
 The MIT License (MIT)
