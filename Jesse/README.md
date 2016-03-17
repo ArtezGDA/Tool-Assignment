@@ -36,6 +36,19 @@ Door enkele woorden in een te selecteren en te kopieren worden de woorden opgesl
 Wanneer alle woorden geselecteerd en gecopieert zijn kunt u deze in een InDesign of Word-bestand plaatsen.
 De woorden zijn op de volgorde geordend die u bij het selecteren en copieeren aanhoudt.
 
+De tool werkt niet als Office Clipboard.
+Bij Office Clipboard heeft u de mogelijkheid woorden of hele texten uit een Wordbestand te "cutten", als u het vlak "cut" drukt, word de geselecteerde text in een venster links opgeslagen.
+Dit kunt u dan met zoveel texten of woorden doen en ze allemaal opslaan in het venster links. De volgorde is niet belangrijk.
+Als u klaar bent met selecteren en "cutten" kunt u links in het venster per woord uitkiezen wat u wilt doen.
+Er bestaan twee mogelijkheden: "paste" en "delete".
+De volgorde die u aanhoudt bij het plakken is wél belangrijk, zo kunt u dus text en woorden in een volgorde zetten die u niet had toen u bijvoorbeeld de woorden of texten van een internetsite gecopieert heeft.
+
+![](clipboard.png)
+![](clipboard2.png)
+![](clipboard3.png)
+
+
+
 ### Sketch
 
 ![](Bildschirmfoto 2016-03-09 um 21.05.33.png)
@@ -45,6 +58,8 @@ De woorden zijn op de volgorde geordend die u bij het selecteren en copieeren aa
 
 ### Demo
 
+In de demo laat ik u zien hoe de tool werkt.
+
 [Demo](https://youtu.be/3Wd9ZBzuSIM)
 
 
@@ -53,7 +68,7 @@ De woorden zijn op de volgorde geordend die u bij het selecteren en copieeren aa
 
 U installeert de tool als plugin op uw computer en kunt hem aan- of uitschakelen in de finderbalk. 
 
-
+### License
 
 
 The MIT License (MIT)
