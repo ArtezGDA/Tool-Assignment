@@ -20,6 +20,8 @@ See which filetypes are due when. Automatically open file at set time.
 
 ### Sketch
 
+![Alt text](/Users/macbook/Documents/Tool-Assignment/Luc/test.png "Test")
+
 ### Demo
 
 ### How to install and use
