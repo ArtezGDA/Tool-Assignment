@@ -7,7 +7,7 @@
 
 ### Prototype
 
-[Gradient Color Picker Demo](https://youtu.be/xa_JpkCI5SY)
+[Gradient Color Picker Demo](https://www.youtube.com/watch?v=bxYab2hKwMU)
 
 
 ## Your Own Tool
@@ -86,7 +86,7 @@ Using this code to extract IP-addresses from text
 
 ### Demo
 
-[URL2GEO Demo](https://youtu.be/R3Afdkv0DI4)
+[URL2GEO Demo](https://www.youtube.com/watch?v=5N1KZ_ZtSiQ)
 
 ### How to install and use
 URL2GEO
