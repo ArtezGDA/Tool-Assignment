@@ -38,6 +38,7 @@ Step 5: Shows you a sheet what you need on your wall.
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![Demo Ruler Tool](RulerDemo.mov)
 
 #####Manquette
+work in progress.
 
 ## Your Own Tool
 
@@ -55,7 +56,7 @@ The Color picker is inspired by http://morris-photographics.com/photoshop/shortc
 
 ### Ruler Tool Demo
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![Demo Ruler Tool](RulerDemo.mov)
+[Demo Ruler Tool](Demo1.mov)
 
 ### How to install and use
 This script combines a series of images from the selected folder into a new document. All layers are named according to the file they represent. The script handles various formats, color modes, and bit-depths, and even preserves transparency.
