@@ -36,7 +36,7 @@ Using:
 
 1. Create a new event in Calendar with the filename + file extension as title. 
 2. Set the date on when the file has to be finished. 
-3. Go to Alert -> Custom -> Open File and select the Apple Script which opens the specified file.
+3. Go to Alert -> Custom -> Open File and select the Apple Script which opens the specified file. Select 'At time of event'.
 
 ## Other Homework
 
