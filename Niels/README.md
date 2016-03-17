@@ -68,5 +68,8 @@ I made a social media destroyer. It frustrates your workflow very well when you 
 
 ### Demo
 https://www.youtube.com/watch?v=-DxyWjwge9Q&feature=youtu.be
+
+![Tool-Assignment](socialmedia_destroyer1.png)
+![Tool-Assignment](socialmedia_destroyer4.png)
 ### How to install and use
 When you use Firefox go to Greasemonkey (https://addons.mozilla.org/nl/firefox/addon/greasemonkey/) and install the app, when you use Chrome you can use Tampermonkey. Go to https://greasyfork.org/nl en search for "Social Media Destroyer". Click on the link and install. 
