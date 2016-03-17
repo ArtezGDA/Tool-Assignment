@@ -7,7 +7,7 @@
 
 “My favourite photo”
 
-This colour picker tool is meant for your favourite photo. 
+This colour picker tool is meant for your favorite photo. 
 We all have this one photo that we love.
 
 With this tool this one photo becomes more than just a photo, I want that the tool creates a few points in the picture and takes a colour from that, for example 9 different points, so 9 different colours. When you load an image that excises just out of one colour (the 9 different colour points from the photo) and google image search gives it a name. I want that this automatically happens with all the 9 points.
@@ -16,11 +16,12 @@ I want that these 9 names are being put into Pinterest one by one. When Pinteres
 
 When this happens with all the 9 different its creates 36 new colours en 36 new images, all been derived from your one favourite photo. 
 
+
+sketch:
+sketch colourpicker tool ![Tool-Assignment](sketch_colourpicker.png)
+
 ### Prototype
 
-[prototype](demo_colourpickertool.mov)
-
-if the link doesnt work, this is another link to a youtube video: 
 
 [demo colourpicker tool](https://youtu.be/BDU5DbAUTLE)
 
@@ -65,9 +66,6 @@ sketch cmd 9 ![Tool-Assignment](schets-09.png)
 
 ### Demo
 
-[demo](demo_indesign_tool.mov)
-
-if the link doesnt work, this is another link to a youtube video: 
 
 [demo indesign tool](https://youtu.be/xR0k8yGc604)
 
