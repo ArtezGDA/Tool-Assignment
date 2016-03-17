@@ -14,11 +14,11 @@ The Color picker is inspired by the Mitre 10 Virtual Wall Painter.
 ### Color Picker Sketch
 #####Demo
 
-[Schets demo](ColorPicker/Schets1.pdf)
+[Schets demo Color Picker](ColorPicker/Schets1.pdf)
 
 #####Manquette
 
-[Schets Maguette](ColorPicker/manquette/Schets2.pdf)
+[Schets Manquette Color Picker](ColorPicker/manquette/Schets2.pdf)
 
 
 ### Color Picker Prototype
@@ -48,19 +48,7 @@ The Color picker is inspired by http://morris-photographics.com/photoshop/shortc
 
 ### Ruler Tool Sketch
 
-Indesign format:
-
-100%
-
-![](Ruler/schets/1.jpg =200x) ![](Ruler/schets/2.jpg =200x) ![](Ruler/schets/3.jpg =200x)
-
-![](Ruler/schets/4.jpg =200x) ![](Ruler/schets/5.jpg =200x) ![](Ruler/schets/6.jpg =200x)
-
-Photoshop format:
-
-16,7% ![](Ruler/schets/7.jpg =270x) 25$ ![](Ruler/schets/8.jpg =270x) 
-
-50%  ![](Ruler/schets/9.jpg =270x) 100% ![](Ruler/schets/10.jpg =270x)
+[Schets Demo Ruler](Ruler/schets/SchetsRuler.pdf)
 
 
 ### Ruler Tool Demo
