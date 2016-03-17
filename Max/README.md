@@ -74,6 +74,7 @@ Then you have to right click your selected word and select "Notehelper" in the d
 ![](img/scherm2.png)
 
 This will give you a finder menu in which it will show your map with your notes and a selection of the files that contain the word you have selected. This is an example:
+
 ![](img/selection.png)
 
 You can now open one or more of these files so you can compare the notes and write even beter texts!
