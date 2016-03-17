@@ -43,15 +43,15 @@ Whenever you are starting a new project, you know that you'll have a long way to
 
 ### Sketch
 
-[First Demo](videoscreen_1.mov)
+[First Demo](https://youtu.be/Mq6XL97MuTI)
 
 ### Demo
 
-[Demo](demo.mov)
+[Demo](https://youtu.be/qmpadSlmjW0)
 
 ### How to install and use
 
-???
+For this tool the programme Automater is necessary 
 
 ## Other Homework
 
