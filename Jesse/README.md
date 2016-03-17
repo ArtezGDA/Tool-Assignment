@@ -5,11 +5,13 @@
 ### Concept & Sketch
 
 Omdat ik niet meer dagen wil bezig zijn met het printen van testjes en het uitvinden van de juiste kleuren die ik nodig heb, wil ik een tool maken waarmee je een kleur van een logo of poster kan selecteren en defineren.
-Het defineren werkt als volgt: Je selecteert een kleur en de tool kiest de 5-8 dichstbijzijnde kleuren die bij de geselecteerde kleur passen uit.
+De Tool werkt als volgt: U selecteert een kleur van een logo op foto op de computer en klikt met de rechter muisknop om het kleurvoorstel te zien. Het kleurvoorstel is gebaseerd op de pixel die uitgekozen is.
 
-Uiteindelijk kan je de uitgekozen kleuren uitprinten en daaruit de passende kleur kiezen.
+Hierbij het kleurvoorstel van het Twitterlogo
 
-De kleuren worden gedefineerd als RGB, CMYK, HEX of Pantone
+![](kleurvoorstel.png)
+
+Het kleurvoorstel wordt gedefineerd als RGB, CMYK, HSB of Pantone.
 
 ![](ral-farben-spektrum.png)
 
