@@ -3,7 +3,13 @@
 ## Color Picker
 
 ### Concept & Sketch
-I made a reversed colourpicker. In Photoshop, Illustrator or another program you can pick a colour of the image and you can use that colour. But you can't pick a colour and let Photoshop search for that colour. This tool tackles that problem and search for the colour in an imago or video you've picked. It's written in Java 
+I made a reversed colourpicker. In Photoshop, Illustrator or another program you can pick a colour of the image and you can use that colour. But you can't pick a colour and let Photoshop search for that colour. This tool tackles that problem and search for the colour in an imago or video you've picked. It's written in Java.
+
+![Tool-Assignment](prototype digitalmedia.png)
+![Tool-Assignment](sketch2.png)
+ 
+### Prototype
+![Tool-Assignment](colourpicker.png)
 
 PImage img;
 int red;
@@ -56,8 +62,6 @@ void draw() {
 void movieEvent(Movie m) {
   m.read();
 
-### Prototype
-![Tool-Assignment](colourpicker.png)
 
 ## Your Own Tool
 
