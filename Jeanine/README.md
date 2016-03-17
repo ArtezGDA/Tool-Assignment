@@ -6,15 +6,18 @@
 
 Colors come to life in 3D. In one of the classes we were shown a 3d pyramid shape were colors could be in detected. I thought this was a fascinating thing so I based my color picker on this concept. Because we can all see color, but what kind of shape is connected with that color? So I want to connect a range of shapes to the RGB colors. If you start with blue the shape will be a square. But if you add a little red, the shape will change. You'll have these sliders next to your shape to play with.
 
-[sketches_01](Schetsen_demo.pdf)
-[circle_sketch](circle_01.mov)
-[piramid_sketch](piramid_01.mov)
-[square_sketch](square_01.mov)
+![sketches_01](Schetsen_demo-1.png)
+![sketches_02](Schetsen_demo-2.png)
+![sketches_03](Schetsen_demo-3.png)
+![sketches_04](Schetsen_demo-4.png)
+[circle_sketch](https://youtu.be/GBtdViaDUaM)
+[piramid_sketch](https://youtu.be/n8JbLBBje7c)
+[square_sketch](shttps://youtu.be/HfkEdZVt6Pk)
 
 
 ### Prototype
 
-[demo](Demo_02.mov)
+[demo](https://youtu.be/sRYCK6m6qWI)
 
 ## Your Own Tool
 
@@ -24,12 +27,12 @@ One of my big annoyances is when I take a screenshot it will automatically be sa
 
 ### Sketch
 
-[Before](Scherm_afbeeldingen.mov)
-[After](Schermopname_demo_DM_03.mov)
+[before](https://youtu.be/LVFvG-Qv71A)
+[after](https://youtu.be/oM6Wa12CRFs)
 
 ### Demo
 
-[demo](Demo_04.mov)
+[demo](https://youtu.be/3jPiVgP3OEA)
 
 ### Code
 
