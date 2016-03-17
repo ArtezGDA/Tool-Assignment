@@ -1,23 +1,3 @@
-// Import Folder as Layers - Adobe Photoshop Script
-// Description: imports a folder of images as named layers within a new document
-// Requirements: Adobe Photoshop CS2, or higher
-// Version: 2.0.0, 5/July/2009
-// Author: Trevor Morris (trevor@morris-photographics.com)
-// Website: http://morris-photographics.com/
-// ============================================================================
-// Installation:
-// 1. Place script in 'C:\Program Files\Adobe\Adobe Photoshop CS#\Presets\Scripts\'
-// 2. Restart Photoshop
-// 3. Choose File > Scripts > Import Folder as Layers
-// ============================================================================
-
-// enable double-clicking from Mac Finder or Windows Explorer
-// this command only works in Photoshop CS2 and higher
-#target photoshop
-
-// bring application forward for double-click events
-app.bringToFront();
-
 ///////////////////////////////////////////////////////////////////////////////
 // main - main function
 ///////////////////////////////////////////////////////////////////////////////
