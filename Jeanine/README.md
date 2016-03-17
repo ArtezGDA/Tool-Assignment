@@ -26,6 +26,8 @@ Colors come to life in 3D. In one of the classes we were shown a 3d pyramid shap
 
 One of my big annoyances is when I take a screenshot it will automatically be saved on my desktop. But what I want is a pop up/ dialog that will ask me where I want my screenshot to be saved and what it should be called. So that it will be orderly  saved. 
 
+I would like to have my tool on a certain key combination. So that it would be very easy and quick to use. 
+
 ### Sketch
 
 [before](https://youtu.be/LVFvG-Qv71A)
@@ -45,6 +47,9 @@ One of my big annoyances is when I take a screenshot it will automatically be sa
 ### How to install and use
 
 For my tool you will need AppleScript. This program will run the code. The downside of this application is that it will only run on Apple computers because it needs Mac OS.
+
+I know where I can find the key combinations in preferences, but I don't know how to change them. Because it looks like there locked. 
+
 
 ## Other Homework
 
