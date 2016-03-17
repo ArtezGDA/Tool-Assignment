@@ -20,6 +20,11 @@ When this happens with all the 9 different its creates 36 new colours en 36 new 
 
 [prototype](demo_colourpickertool.mov)
 
+if the link doesnt work, this is another link to a youtube video: 
+
+[demo colourpicker tool](https://youtu.be/BDU5DbAUTLE)
+
+
 ## Your Own Tool
 
 ### Concept
@@ -39,30 +44,37 @@ This is possible with all the 9 different short keys.
 
 ### Sketch
 
-sketch cmd 1 ![Tool-Assignment](sketsges1-01.jpg)
+sketch cmd 1 ![Tool-Assignment](schets-01.png)
 
-sketch cmd 2 ![Tool-Assignment](sketsges1-02.jpg)
+sketch cmd 2 ![Tool-Assignment](schets-02.png)
 
-sketch cmd 3 ![Tool-Assignment](sketsges1-03.jpg)
+sketch cmd 3 ![Tool-Assignment](schets-03.png)
 
-sketch cmd 4 ![Tool-Assignment](sketsges1-04.jpg)
+sketch cmd 4 ![Tool-Assignment](schets-04.png)
 
-sketch cmd 5 ![Tool-Assignment](sketsges1-05.jpg)
+sketch cmd 5 ![Tool-Assignment](schets-05.png)
 
-sketch cmd 6 ![Tool-Assignment](sketsges1-06.jpg)
+sketch cmd 6 ![Tool-Assignment](schets-06.png)
 
-sketch cmd 7 ![Tool-Assignment](sketsges1-07.jpg)
+sketch cmd 7 ![Tool-Assignment](schets-07.png)
 
-sketch cmd 8 ![Tool-Assignment](sketsges1-08.jpg)
+sketch cmd 8 ![Tool-Assignment](schets-08.png)
 
-sketch cmd 9 ![Tool-Assignment](sketsges1-09.jpg)
+sketch cmd 9 ![Tool-Assignment](schets-09.png)
 
 
 ### Demo
 
 [demo](demo_indesign_tool.mov)
 
+if the link doesnt work, this is another link to a youtube video: 
+
+[demo indesign tool](https://youtu.be/xR0k8yGc604)
+
+
 ### How to install and use
+
+
 
 ## Other Homework
 
