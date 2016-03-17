@@ -98,6 +98,14 @@ For this tool you need :
 [this is a link](http://www.adobe.com/nl/downloads.html) to an site where you can get a free trial of indesign. 
 The Indesign photo editor” file consist of an README file and 3 codes that you need to use to install the action.
 
+
+This is how you dowload the "indesign photo editor": 
+
+go to: [app store](https://itunes.apple.com/nl/genre/ios/id36?mt=8) 
+type in the search bar “Indesign photo editor” and an package of the file will show.
+download it.
+
+
 - step 1: download indesign
 - step 2: download the “Indesign photo editor” file.
 - step 3: read the README file
