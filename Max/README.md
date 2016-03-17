@@ -28,6 +28,7 @@ Password: MediaDesign2016
 ![](img/scherm_03.png)
 ![](img/scherm_04.png)
 
+###License
 #####The MIT License (MIT)
 
 Copyright (c) 2016 Graphic Design Arnhem at ArtEZ Academy
@@ -38,6 +39,8 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+<br>
+<br>
 
 ## Your Own Tool
 
@@ -47,18 +50,7 @@ NoteHelper
 
 With this app, the computer can finally help you making your notes. In comparison to making notes in a analog way, the computer can assist you in many ways. With this app, you can compare certain words in your current note with previous notes that you have written. 
 
-This can boost the information you are writing. Maybe some previous brainwaves you had a couple of months back, can help you with your current project or idea. 
-
-### Sketch
-####MindMap App Sketches
-![](img/mindmapapp-1.jpg)
-![](img/mindmapapp-2.jpg)
-
-#####NoteHelper App Sketches
-![](img/noteapp-1.jpg)
-![](img/noteapp-2.jpg)
-![](img/noteapp-3.jpg)
-
+This can boost the information you are writing. Maybe some previous brainwaves you had a couple of months back, can help you with your current project or idea. It is a simple concept but can help you in many ways.
 
 
 ### Demo
@@ -85,6 +77,19 @@ This will give you a finder menu in which it will show your map with your notes 
 ![](img/selection.png)
 
 You can now open one or more of these files so you can compare the notes and write even beter texts!
+
+<br>
+<br>
+
+## Sketches
+#####MindMap App Sketches
+![](img/mindmapapp-1.jpg)
+![](img/mindmapapp-2.jpg)
+
+#####NoteHelper App Sketches
+![](img/noteapp-1.jpg)
+![](img/noteapp-2.jpg)
+![](img/noteapp-3.jpg)
 
 
 
