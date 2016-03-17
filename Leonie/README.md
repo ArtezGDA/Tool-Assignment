@@ -47,6 +47,7 @@ SOFTWARE.
 ###analysis of current status
 
 when you want to create a cool pattern to use for for instance illustrater you can use the standard pattern maker that illustrater has. But i think that that is a really limeted, the patterns are boring and too equal and there is no contrast in it. 
+
 ![Text-IO](analyse.png)
 ### Concept
 A tool to create extraordinairy patterns with surprising elements. As crazy as you want them to be. You work with a synthesizer where you can decide the shape of the figure you are going to use for the pattern. 
@@ -65,19 +66,21 @@ while the pattern is being made, you can change the signals and thus the shape o
 
 [square pattern](Leonie/redline2.pv)
 
-https://www.youtube.com/watch?v=i2ZXSq2XwdQ&feature=youtu.be
 
 [oval pattern](Leonie/redline3.pv)
 
 
+https://www.youtube.com/watch?v=i2ZXSq2XwdQ&feature=youtu.be
 
 ### Demo
 
+![Text-IO](demo_ppt.png)
 
 ### How to install and use
 
 Open the partypatternmaker. 
 Make your starting shape by using the panel, when you are satisfied with the shape you push the play/pause button. The red bar in the preview screen is going to move and from now on you can turn the signs to change your shape while the pattern is created. 
+You can change the speed of the red bar by the speed mixer. And you can change the direction of the red bar by the direction panal. 
 The bar will come again and create a new layer with shapes. This will happen untill you press the play/pause button again. Now you can save your pattern to import it in for instance indesign ore illustrator.
 Then you can develop your pattern by pushing the play/pause button again and turning the signs. Or you double push the button to start with a blanc canvas. 
 
