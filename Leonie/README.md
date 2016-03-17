@@ -46,7 +46,7 @@ SOFTWARE.
 
 ###analysis of current status
 
-when you want to create a cool pattern to use for for instance illustrater you can use the standard pattern maker that illustrater has. But i think that that is a really limeted, the patterns are boring and too equal and there is no contrast in it. 
+when you want to create a cool pattern to use for for instance illustrater you can use the standard pattern maker that illustrater has. I think that that is a really limeted, the patterns are boring and too equal and there is no contrast in it. 
 
 ![Text-IO](analyse.png)
 ### Concept
@@ -89,12 +89,12 @@ Push the download button and follow the steps.
 
 ##### how to use the tool
 Open the partypatternmaker. 
-Make your starting shape by using the panel, when you are satisfied with the shape you push the play/pause button. The red bar in the preview screen is going to move and from now on you can turn the signs to change your shape while the pattern is created. 
+Make your starting shape by using the signal, when you are satisfied with the shape you push the play/pause button. The red bar in the preview screen is going to move and from now on you can turn the signs to change your shape while the pattern is created. 
 
-You can change the speed of the red bar by the speed mixer. And you can change the direction of the red bar by the direction panal. 
+You can change the speed of the red bar by the speed mixer. You can also change the direction of the red bar with the direction signal. 
 The bar will come again and create a new layer with shapes. This will happen untill you press the play/pause button again. Now you can save your pattern to import it in for instance indesign ore illustrator.
 
-Then you can develop your pattern by pushing the play/pause button again and turning the signs. Or you double push the button to start with a blanc canvas. You can also open an older pattern by the searching bar and go further with that one. 
+Then you can develop your pattern by pushing the play/pause button again and turning the signals. Or you double push the button to start with a blanc canvas. You can also open an older pattern by the searching bar and go further with that one. 
 
 #####The MIT License (MIT)
 
