@@ -63,7 +63,8 @@ Choosen screen 3
 
 ### Demo
 
-####[Tool Proof of concept](Tool.scpt)
+####[Tool Proof of concept script](Tool.scpt)
+####[Tool Proof of concept Demo](DemoToolPOC.mov)
 
 ![Tool-Assignment](T01.png)
 
@@ -92,6 +93,13 @@ display dialog "In de speeltuin kun je ijsjes kopen voor €1,25 per stuk. Als B
 
 ```
 Install it as a app, that is running on the background of your computer. So every 15 minutes there will be a pop-up with a math quiestion, if you have it wrong you need to answer a new quiestion till the 4th, so you can reactivate your brain. 
+
+ - step 1: download Scripteditor for Apple
+ - step 2: read this README file 
+ - step 3: open the document in Scripteditor
+ - step 4: run it on the background of your computer
+ - step 5: when the screen pops up, answer the quistions
+ - step 6: every 15 minutes there will pop up another screen.
 ```
 
 ## Other Homework
