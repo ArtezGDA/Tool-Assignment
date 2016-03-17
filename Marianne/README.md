@@ -2,16 +2,17 @@
 
 ## Color Picker
 
-
+[Movie on Vimeo](https://vimeo.com/159337264) 
+ww: prototype
 
 ### Concept & Sketch
 
-Bin Mixer
+BIN MIXER
 
-Met het verplaatsen van bestanden naar de prullenbak, verander je de bureaubladachtergrond. Het script houdt bij welke bestanden er naar de prullenbak verplaatst worden en past de RGB-samenstelling aan. Er zijn dan ook 3 categorieen:
+With placing files to your computer's trash bin, you are changing the color of your desktop image. The script registers the files that are placed in the bin location en adjusts the RGB-composition. Formats are divided into 3 kinds: images (jpeg, png, bmp, gif), multimedia (mp3, mp4, mov, wov) and other (folder, zip, disk, txt, rtf).
 
+IF you empty the trash bin, the parameters are set to 0. So the color will be black again, ready to get lighter and more saturated. 
 
-Bij het legen van de prullenmand, wordt de bureaubladachtergrond zwart. Zodat bij het toenemen van de R, G of B het scherm weer steeds lichter zal worden.
 
 ### Prototype
 
@@ -21,7 +22,9 @@ Bij het legen van de prullenmand, wordt de bureaubladachtergrond zwart. Zodat bi
 
 ### Concept
 
-Het transformeren van webpagina's naar een PDF-bestand dat alleen nog geprint, gevouwen en geniet hoeft te worden om het tot een handzaam en leesbaar formaat te maken. The script scrapes the text from the webpage with beautiful soup and pastes it in a PlotDevice-code that designs the page. It prints the text in a 2 column a5 format to a PDF file, that only has to be re-ordered to be finished as a booklet ready to print.
+TRAVEL TEXT TOOL
+
+A tool that transforms webpages into a readable, easy to handle PDF-file, that only has to be fold and stapled. The script scrapes the text from the webpage with beautifulsoup and pastes it in a PlotDevice-code that designs the page. It prints the text in a 2 column a5 format to a PDF file, that only has to be re-ordered to be finished as a booklet ready to print.
 
 The reason why this would be helpful, is because I often stumble upon interesting webpages or articles that I really want to read but keeps me from my tasks. Everyday I travel by train in a total of 40 minutes and would like to read the texts while I sit in the train. I don't like reading from a screen so a ready-to-go code to transform these texts would be very helpful.
 
@@ -50,13 +53,13 @@ Script for design of an output A5 pdf >
 
 ### Demo
 
-
-
-<!-- [Movie on Vimeo](https://vimeo.com/-) -->
-
+[Movie on Vimeo](https://vimeo.com/159336373) 
+ww: prototype
 
 
 ### How to install and use
+
+
 
 ## Other Homework
 
