@@ -3,8 +3,6 @@
 ## Color Picker
 
 ### Concept & Sketch
-<<<<<<< Updated upstream
-=======
 I made a reversed colourpicker. In Photoshop, Illustrator or another program you can pick a colour of the image and you can use that colour. But you can't pick a colour and let Photoshop search for that colour. This tool tackles that problem and search for the colour in an imago or video you've picked. It's written in Java 
 
 PImage img;
@@ -57,7 +55,6 @@ void draw() {
 // Called every time a new frame is available to read
 void movieEvent(Movie m) {
   m.read();
->>>>>>> Stashed changes
 
 ### Prototype
 
@@ -70,6 +67,6 @@ I made a social media destroyer. It frustrates your workflow very well when you 
 ### Sketch
 
 ### Demo
-
+https://www.youtube.com/watch?v=-DxyWjwge9Q&feature=youtu.be
 ### How to install and use
 When you use Firefox go to Greasemonkey (https://addons.mozilla.org/nl/firefox/addon/greasemonkey/) and install the app, when you use Chrome you can use Tampermonkey. Go to https://greasyfork.org/nl en search for "Social Media Destroyer". Click on the link and install. 
