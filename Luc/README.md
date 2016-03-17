@@ -18,9 +18,14 @@ File Calendar:
 
 See which filetypes are due when. Automatically open file at set time.
 
+Using:
+
+• Calendar
+• Apple Script
+
 ### Sketch
 
-[Sketch](http://i.imgur.com/L8EiWYh.png)
+[Screenshot](http://i.imgur.com/L8EiWYh.png)
 
 ### Demo
 
