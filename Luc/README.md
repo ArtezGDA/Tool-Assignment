@@ -20,7 +20,7 @@ See which filetypes are due when. Automatically open file at set time.
 
 ### Sketch
 
-![Alt text](/Users/macbook/Documents/Tool-Assignment/Luc/test.png "Test")
+[Imgur](http://i.imgur.com/L8EiWYh.png)
 
 ### Demo
 
