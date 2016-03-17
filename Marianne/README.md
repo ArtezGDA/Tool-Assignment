@@ -31,6 +31,8 @@ A tool that transforms webpages into a readable, easy to handle PDF-file, that o
 
 The reason why this would be helpful, is because I often stumble upon interesting webpages or articles that I really want to read but keeps me from my tasks. Everyday I travel by train in a total of 40 minutes and would like to read the texts while I sit in the train. I don't like reading from a screen so a ready-to-go code to transform these texts would be very helpful.
 
+It is a browser plugin, that exists of a small python script that runs on the back. When pushing the 'Make PDF'-button, the program runs and saves the PDF file on a chosen location in your computer.
+
 ### Sketch
 
 To show how many paper it will save to print in this format instead of the default 'print this page' function.
@@ -113,6 +115,19 @@ ww: prototype
 
 
 ### How to install and use
+
+Programs required:
+python
+pip
+beautifulsoup4
+
+As a browser plugin, that exists of a small python script that runs on the back. When pushing the 'Make PDF'-button, the program runs and saves the PDF file on a chosen location in your computer. 
+
+Can be downloaded from Github or where ever and is free to use or edit.
+
+
+
+
 
 
 
