@@ -47,7 +47,18 @@ De volgorde die u aanhoudt bij het plakken is wél belangrijk, zo kunt u dus tex
 ![](clipboard2.png)
 ![](clipboard3.png)
 
+Waar u wel aan moet denken, is dat Clipboard alleen maar maximaal 24 objecten kan opslaan.
+Bij alternatieven kunt u meer objecten opslaan.
+Zoals bij CopyLess (100 objecten), CopyClip (230 objecten), CopyPaste Pro (999 objecten).
+Bij Clipboard Center, Copy'em Paste, PTHPasteboard Pro en iClipboard kunt u zoveel objecten opslaan hoe u maar wilt.
 
+Naast deze plugins of programmas zijn er nog meer zoals 1clipboard, Paster, Auto Context, Copy Plain Text, Jumpcut, ClipMenu of CopyQ.
+
+
+Bij CopyClip werkt het als volgt: Alle objecten die u gecopieert heeft worden opgeslagen in de manager van de app die in de finderbalk te vinden is. Hierbij kunt u ook uitkiezen hoeveel gecopieerde objecten de app moet onthouden. Dit kan dus tot maximaal 230 Objecten.
+
+![](screen800x500.png)
+![](screen800x500-1.png)
 
 ### Sketch
 
