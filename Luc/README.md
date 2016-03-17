@@ -2,7 +2,7 @@
 
 ## Color Picker
 
-Create a linear gradient between two places. 
+Create a linear gradient between two places on the world map. 
 
 ### Concept & Sketch
 
