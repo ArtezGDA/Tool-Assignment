@@ -18,6 +18,8 @@ File Calendar:
 
 See which filetypes are due when. Automatically open file at set time.
 
+Example: I need to finish an .stl file with name room.stl on Friday 18 March at 13.00. The File Calendar will notify me and open the file automatically half an hour before the deadline.
+
 Using:
 
 • Calendar
