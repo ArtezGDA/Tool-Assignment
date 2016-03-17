@@ -39,7 +39,11 @@ It also takes every 20sec a screenshot. After the session you can see your compl
 
 
 ### Sketch
-The first sketches are on paper. 
+![tool-Assignment](sketch1.png) 
+
+![tool-Assignment](sketch2.png)  
+
+![tool-Assignment](papier1.png)
 
 
 
