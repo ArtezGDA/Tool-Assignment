@@ -34,5 +34,9 @@ Using:
 
 ### How to install and use
 
+1. Create a new event in Calendar with the filename + file extension as title. 
+2. Set the date on when the file has to be finished. 
+3. Go to Alert -> Custom -> Open File and select the Apple Script which opens the specified file.
+
 ## Other Homework
 
