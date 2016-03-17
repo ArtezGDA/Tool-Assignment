@@ -74,8 +74,12 @@ if the link doesnt work, this is another link to a youtube video:
 
 ### proof of concept
 
-The tool works on javascript. 
-Indesign has al kinds of different codes a
+
+The tool work ons Javascript. 
+Indesign has al kinds of different codes available to script some actions yourself. 
+[this is a link](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/indesign/sdk/cs6/scripting/InDesign_ScriptingGuide_AS.pdf) to the scripting guide, here you can find al kinds of code’s to change some actions in indesign. 
+
+These are 3 examples how to place an image in indesign ( 3 different codes):
 
 example code 1 ![Tool-Assignment](code1.js)
 
@@ -88,11 +92,21 @@ example code 3 ![Tool-Assignment](code3.js)
 
 For this tool you need :
 
-- Adobe Indesign
-- “Indesign photo editor” package
+- Adobe Indesign.
+- “Indesign photo editor” file.
 
 [this is a link](http://www.adobe.com/nl/downloads.html) to an site where you can get a free trial of indesign. 
-The Indesign photo editor” package consist of an README file and some codes that you need to use to install the action.
+The Indesign photo editor” file consist of an README file and 3 codes that you need to use to install the action.
+
+- step 1: download indesign
+- step 2: download the “Indesign photo editor” file.
+- step 3: read the README file
+- step 4: choose 1 of the 3 codes
+- step 5: open indesign
+- step 6: go to file -> sripts -> other scripts
+- step 7: go to file -> keyboard shortkeys
+- step 8: click "new set" -> name it "easy image placing"
+- step 9: IN PROGRESS (somewhere here you need to add one of the 3 code's)
 
 
 
