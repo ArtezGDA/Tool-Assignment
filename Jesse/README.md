@@ -5,9 +5,9 @@
 ### Concept & Sketch
 
 Omdat ik niet meer dagen wil bezig zijn met het printen van testjes en het uitvinden van de juiste kleuren die ik nodig heb, wil ik een tool maken waarmee je een kleur van een logo of poster kan selecteren en defineren.
-De Tool werkt als volgt: U selecteert een kleur van een logo op foto op de computer en klikt met de rechter muisknop om het kleurvoorstel te zien. Het kleurvoorstel is gebaseerd op de pixel die uitgekozen is.
+De Tool werkt als volgt: U selecteert een kleur van een logo of foto op de computer en klikt met de rechter muisknop om het kleurvoorstel te zien. Het kleurvoorstel is gebaseerd op de pixel die uitgekozen is.
 
-Hierbij het kleurvoorstel van het Twitterlogo
+Hieronder het kleurvoorstel van het Twitterlogo
 
 ![](kleurvoorstel.png)
 
