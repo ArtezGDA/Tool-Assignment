@@ -43,7 +43,7 @@ To show how many paper it will save to print in this format instead of the defau
 ### Scripts
 
 Script from scraping the rich text of main-content from an url >
-![](BS.pv)
+![SCRAPING](BS.pv)
 
 ```
 from bs4 import BeautifulSoup
@@ -54,7 +54,7 @@ soup = BeautifulSoup(r)
 print soup.article-content-rich-text
 ```
 
-![](BS2.pv)
+![SCRAPING 2](BS2.pv)
 
 ```
 import requests
@@ -68,7 +68,7 @@ soup.find_all('http://www.vice.com/nl/read/kan-een-lettertype-racistisch-zijn-09
 ```
 
 Script for design of an output A5 pdf >
-![](indeling.pv)
+![DESIGN A5](indeling.pv)
 
 ```
 size(420, 595)
