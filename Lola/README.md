@@ -74,6 +74,25 @@ if the link doesnt work, this is another link to a youtube video:
 
 ### How to install and use
 
+For this tool you need :
+
+- Adobe Indesign
+- “Indesign photo editor” package
+
+[this is a link](http://www.adobe.com/nl/downloads.html) to an site where you can get a free trial of indesign. 
+The Indesign photo editor” package consist of an README file and some codes that you need to use to install the action.
+
+
+example code 1 ![Tool-Assignment](code1.js)
+
+example code 2 ![Tool-Assignment](code2.js)
+
+example code 3 ![Tool-Assignment](code3.js)
+
+
+
+
+
 
 
 #### License
