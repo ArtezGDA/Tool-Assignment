@@ -69,6 +69,7 @@ while the pattern is being made, you can change the signals and thus the shape o
 
 [oval pattern](Leonie/redline3.pv)
 
+![Text-IO](scetch2.png)
 
 https://www.youtube.com/watch?v=i2ZXSq2XwdQ&feature=youtu.be
 
