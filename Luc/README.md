@@ -6,7 +6,7 @@ Create a linear gradient between two places on the world map.
 
 ### Concept & Sketch
 
-Type in two places on Earth via the browser. Both places have one fixed color and X/Y position. The distance and longitude determine the angle and stroke width.
+Type in two places on Earth via the browser. Both places have a fixed color and X/Y position. The distance and longitude respectively determine the stroke width and angle.
 
 ### Prototype
 
