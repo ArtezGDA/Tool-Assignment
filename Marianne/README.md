@@ -3,6 +3,7 @@
 ## Color Picker
 
 [Movie on Vimeo](https://vimeo.com/159337264) 
+<br>
 ww: prototype
 
 ### Concept & Sketch
@@ -44,17 +45,18 @@ To show how many paper it will save to print in this format instead of the defau
 Script from scraping the rich text of main-content from an url >
 ![](BS.pv)
 
+```
 from bs4 import BeautifulSoup
 import urllib
 r = urllib.urlopen('http://www.vice.com/nl/read/kan-een-lettertype-racistisch-zijn-090').read()
 soup = BeautifulSoup(r)
 # letters = soup.find_all("div", class_="article-content-inner")
 print soup.article-content-rich-text
-
+```
 
 ![](BS2.pv)
 
-<code>
+```
 import requests
 import bs4
 from bs4 import BeautifulSoup
@@ -63,10 +65,12 @@ url = "http://www.vice.com/nl/read/kan-een-lettertype-racistisch-zijn-090"
 
 
 soup.find_all('http://www.vice.com/nl/read/kan-een-lettertype-racistisch-zijn-090', class_="article-content rich-text")
+```
 
 Script for design of an output A5 pdf >
 ![](indeling.pv)
 
+```
 size(420, 595)
 txt = """Elke twee weken maakt schrijver/kunstenaar Jan Hoek een lijstje van de vijf kunstwerken die zijn kunstenaarshart sneller lieten kloppen. Deze week bespreekt hij met KABK-student Erik van der Veen de belangrijke vraag: kunnen lettertypes racistisch zijn? Of anders op zijn minst een tikkie stereotyperend?
 
@@ -95,12 +99,13 @@ font('Minion Pro', 10)
 t = text(25,30 , 175, 555, str=txt)
 for block in t.flow(2):
     block.x += block.width + 20
-
+```
 
 
 ### Demo
 
 [Movie on Vimeo](https://vimeo.com/159336373) 
+<br>
 ww: prototype
 
 
