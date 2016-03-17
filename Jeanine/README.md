@@ -35,7 +35,8 @@ I would like to have my tool on a certain key combination. So that it would be v
 
 ### Demo
 
-[demo](https://youtu.be/3jPiVgP3OEA)
+[demo_01](https://youtu.be/3jPiVgP3OEA)
+[demo_02](https://youtu.be/7CHiderlJcU)
 
 ### Code
 
