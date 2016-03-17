@@ -14,27 +14,28 @@ The Color picker is inspired by the Mitre 10 Virtual Wall Painter.
 ### Color Picker Sketch
 #####Demo
 
-![](ColorPicker/Schets1.jpg =210x)![](ColorPicker/Schets2.jpg =210x)
-
-![](ColorPicker/Schets3.jpg =210x)![](ColorPicker/Schets4.jpg =210x)
-
-![](ColorPicker/Schets5.jpg =210x)![](ColorPicker/Schets6.jpg =210x)
+[Schets 1 demo](ColorPicker/Schets1.pdf)
 
 #####Manquette
 
-![](ColorPicker/manquette/1.jpg =608x)
-
-![](ColorPicker/manquette/2.jpg =200x)  ![](ColorPicker/manquette/3.jpg =200x)  ![](ColorPicker/manquette/4.jpg =200x)
+![](ColorPicker/manquette/1.jpg)
+![](ColorPicker/manquette/2.jpg)  
+![](ColorPicker/manquette/3.jpg)  
+![](ColorPicker/manquette/4.jpg)
 
 With paint
 
-![](ColorPicker/manquette/5.jpg =200x)  ![](ColorPicker/manquette/6.jpg =200x)  ![](ColorPicker/manquette/7.jpg =200x)
+![](ColorPicker/manquette/5.jpg)  
+![](ColorPicker/manquette/6.jpg)  
+![](ColorPicker/manquette/7.jpg)
 
 Printer inkt
 
-![](ColorPicker/manquette/8.jpg =200x)  ![](ColorPicker/manquette/9.jpg =200x)  
+![](ColorPicker/manquette/8.jpg)  
+![](ColorPicker/manquette/9.jpg)  
+![](ColorPicker/manquette/10.jpg)  
+![](ColorPicker/manquette/11.jpg)
 
-![](ColorPicker/manquette/10.jpg =200x)  ![](ColorPicker/manquette/11.jpg =200x)
 ### Color Picker Prototype
 
 #####Demo
@@ -81,8 +82,8 @@ Photoshop format:
 
 #####[Movie](Sketch-03.mov)
 <br>
-[Movie on Vimeo](https://vimeo.com/159286921)
-<br>
+
+[How to use](Use_WikiCounter_.mp4)
 
 ### How to install and use
 This script combines a series of images from the selected folder into a new document. All layers are named according to the file they represent. The script handles various formats, color modes, and bit-depths, and even preserves transparency.
