@@ -14,27 +14,12 @@ The Color picker is inspired by the Mitre 10 Virtual Wall Painter.
 ### Color Picker Sketch
 #####Demo
 
-[Schets 1 demo](ColorPicker/Schets1.pdf)
+[Schets demo](ColorPicker/Schets1.pdf)
 
 #####Manquette
 
-![](ColorPicker/manquette/1.jpg)
-![](ColorPicker/manquette/2.jpg)  
-![](ColorPicker/manquette/3.jpg)  
-![](ColorPicker/manquette/4.jpg)
+[Schets Maguette](ColorPicker/manquette/Schets2.jpg)
 
-With paint
-
-![](ColorPicker/manquette/5.jpg)  
-![](ColorPicker/manquette/6.jpg)  
-![](ColorPicker/manquette/7.jpg)
-
-Printer inkt
-
-![](ColorPicker/manquette/8.jpg)  
-![](ColorPicker/manquette/9.jpg)  
-![](ColorPicker/manquette/10.jpg)  
-![](ColorPicker/manquette/11.jpg)
 
 ### Color Picker Prototype
 
