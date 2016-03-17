@@ -12,7 +12,7 @@ Colors come to life in 3D. In one of the classes we were shown a 3d pyramid shap
 ![sketches_04](Schetsen_demo-4.png)
 [circle_sketch](https://youtu.be/GBtdViaDUaM)
 [piramid_sketch](https://youtu.be/n8JbLBBje7c)
-[square_sketch](shttps://youtu.be/HfkEdZVt6Pk)
+[square_sketch](https://youtu.be/HfkEdZVt6Pk)
 
 
 ### Prototype
