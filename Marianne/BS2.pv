@@ -1,0 +1,8 @@
+import requests
+import bs4
+from bs4 import BeautifulSoup
+import urllib2
+url = "http://www.vice.com/nl/read/kan-een-lettertype-racistisch-zijn-090"
+
+
+soup.find_all('http://www.vice.com/nl/read/kan-een-lettertype-racistisch-zijn-090', class_="article-content rich-text")

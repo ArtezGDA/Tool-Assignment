@@ -1,0 +1,6 @@
+from bs4 import BeautifulSoup
+import urllib
+r = urllib.urlopen('http://www.vice.com/nl/read/kan-een-lettertype-racistisch-zijn-090').read()
+soup = BeautifulSoup(r)
+# letters = soup.find_all("div", class_="article-content-inner")
+print soup.article-content-rich-text
