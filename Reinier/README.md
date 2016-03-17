@@ -21,7 +21,11 @@ How to install this tool?
 ## Your Own Tool
 This tool is completely based on my personal brain. How does it work when I am in a situation with a negative vibe or how will react in a positive enviroment. With this tool you will learn what my perpective could be about these situations. For example someone comes up to you and says that he didnt really like your work for a class. How will I react or how do I think I have to react. You will find out right here.
 ### Concept
-This is an applescript that is being used as some sort of application or program to visualize the idea. You will get pop-up questions about some situations where a specific reaction is needed. You could stay positive and pretend you really dont care about anything. Or you could be someone that sees everything negatively. What you have to find out is how you will get out of the loop. Is it possible to stay positive or is it really neccesary to be negative all the time. 
+This is an applescript that is being used as some sort of application or program to visualize the idea. You will get pop-up questions about some situations where a specific reaction is needed. You could stay positive and pretend you really dont care about anything. Or you could be someone that sees everything negatively. What you have to find out is how you will get out of the loop. Is it possible to stay positive or is it really neccesary to be negative all the time.
+### Proof of Concept
+I tried to find some examples of code that i could use and what i think could work for this project.
+the examples of code you will find [here](http://pastebin.com/NsudBEEX)
+ 
 ### Sketch
 Here a small visualization of the tool how it should work.
 <br>
