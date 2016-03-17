@@ -18,7 +18,7 @@ The Color picker is inspired by the Mitre 10 Virtual Wall Painter.
 
 #####Manquette
 
-[Schets Maguette](ColorPicker/manquette/Schets2.jpg)
+[Schets Maguette](ColorPicker/manquette/Schets2.pdf)
 
 
 ### Color Picker Prototype
