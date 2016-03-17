@@ -7,6 +7,8 @@ I made a reversed colourpicker. In Photoshop, Illustrator or another program you
 
 ![Tool-Assignment](prototype digitalmedia.png)
 ![Tool-Assignment](sketch2.png)
+![Tool-Assignment](sketch3.png)
+![Tool-Assignment](sketch5.png)
  
 ### Prototype
 ![Tool-Assignment](colourpicker.png)
