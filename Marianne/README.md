@@ -111,11 +111,12 @@ WORKING SCRIPT >
 Insert url and rich texts gets transformed in A5-pdf.
 [WORKING SCRIPT, COMBINED SCRAPING AND LAYOUT](WERKEND.pv)
 
+
+```
+
 from bs4 import BeautifulSoup
 import urllib
 
-
-```
 
 size(420, 595)
 r = urllib.urlopen('http://www.vice.com/nl/read/kan-een-lettertype-racistisch-zijn-090').read()
