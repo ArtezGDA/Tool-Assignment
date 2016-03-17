@@ -17,7 +17,8 @@ Colors come to life in 3D. In one of the classes we were shown a 3d pyramid shap
 
 ### Prototype
 
-[demo](https://youtu.be/sRYCK6m6qWI)
+[demo_01](https://youtu.be/sRYCK6m6qWI)
+[demo_02](https://youtu.be/7CHiderlJcU)
 
 ## Your Own Tool
 
