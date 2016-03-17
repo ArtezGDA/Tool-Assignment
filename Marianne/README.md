@@ -2,9 +2,7 @@
 
 ## Color Picker
 
-[Movie on Vimeo](https://vimeo.com/159337264) 
-<br>
-ww: prototype
+
 
 ### Concept & Sketch
 
@@ -16,6 +14,10 @@ IF you empty the trash bin, the parameters are set to 0. So the color will be bl
 
 
 ### Prototype
+
+[Movie on Vimeo](https://vimeo.com/159337264) 
+<br>
+ww: prototype
 
 
 
@@ -43,7 +45,8 @@ To show how many paper it will save to print in this format instead of the defau
 ### Scripts
 
 Script from scraping the rich text of main-content from an url >
-![SCRAPING](BS.pv)
+<br>
+[SCRAPING](BS.pv)
 
 ```
 from bs4 import BeautifulSoup
@@ -53,8 +56,8 @@ soup = BeautifulSoup(r)
 # letters = soup.find_all("div", class_="article-content-inner")
 print soup.article-content-rich-text
 ```
-
-![SCRAPING 2](BS2.pv)
+<br>
+[SCRAPING 2](BS2.pv)
 
 ```
 import requests
@@ -66,9 +69,9 @@ url = "http://www.vice.com/nl/read/kan-een-lettertype-racistisch-zijn-090"
 
 soup.find_all('http://www.vice.com/nl/read/kan-een-lettertype-racistisch-zijn-090', class_="article-content rich-text")
 ```
-
+<br>
 Script for design of an output A5 pdf >
-![DESIGN A5](indeling.pv)
+[DESIGN A5](indeling.pv)
 
 ```
 size(420, 595)
