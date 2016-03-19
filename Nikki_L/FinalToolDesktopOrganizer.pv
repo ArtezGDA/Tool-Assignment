@@ -1,0 +1,125 @@
+size(1280, 800)
+speed(30)
+
+def setup():
+
+    global px, py
+    px, py = 0, 0
+    global dragging
+    dragging = False
+
+    global currentField
+    currentField = Region(0,0,0,0)
+    
+
+    global fieldlist
+    fieldlist = []
+    
+    ###########################
+    global wasKeydown
+    global prevCode
+    global inputText
+    global availableCharacters
+    wasKeydown = False
+    prevCode = 0
+    inputText = ""
+    availableCharacters = [
+            "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", 
+            "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", 
+            "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0",
+            " ",
+            "`", "~", ",", ".", "/", "<",
+            ">", "?", ";", "'", "\\", ":", '"', "|"
+            "[", "]", "{", "}", "§", "±", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "_", "+", "-", "="
+        ]
+        
+    #######################
+
+def draw():
+    image("background.jpg", 0, 0)
+
+    global px, py
+    global dragging
+    global currentField
+    global fieldlist
+    
+    ###############
+    global wasKeydown
+    global prevCode
+    global inputText
+    global availableCharacters
+
+    ##################
+
+    background(1)
+
+    if mousedown and not dragging:
+        dragging = True
+        print "start dragging"
+        currentField.x = MOUSEX
+        currentField.y = MOUSEY
+
+    if MOUSEX != px and MOUSEY != py and dragging:
+        px, py = MOUSEX, MOUSEY
+        fieldSize = Size(currentField.x - px, currentField.y - py)
+        currentField.size = -fieldSize 
+
+    if not mousedown and dragging:
+        dragging = False
+        print "stop dragging"
+        fieldlist.append(currentField)
+        currentield = Region(0,0,0,0)
+
+    # Teken huidig vlak
+    nofill()
+    stroke(0.1, 0.1, 0,1)
+    strokewidth(3)
+    rect(currentField)
+    
+    # Teken vlak
+    nofill()
+    stroke(0.6, 0.6, 0.6)
+    strokewidth(3)
+    for field in fieldlist:
+        rect(field)
+
+    # teken MousePointer() ????????????????
+
+def drawMousePointer():
+    fill(0,8, 0,6, 0,6)
+    stroke(1)
+    strokewidth(3)
+    line(MOUSEX - 11, MOUSEY, MOUSEX + 11, MOUSEY)
+    line(MOUSEX, MOUSEY - 11, MOUSEX, MOUSEY + 11)
+    stroke(0)
+    strokewidth(3)
+    line(MOUSEX - 10, MOUSEY, MOUSEX + 10, MOUSEY)
+    line(MOUSEX, MOUSEY - 10, MOUSEX, MOUSEY + 10)
+    
+    
+    #################################
+    if keydown:
+        if not wasKeydown or keycode != prevCode: 
+            print "key was down"
+            prevCode = keycode
+            wasKeydown = True
+            # be able to backspace
+            if keycode == KEY_BACKSPACE:
+                inputText = inputText[:-1]
+            elif key in availableCharacters:
+                inputText += key
+            
+    if not keydown and wasKeydown:
+        wasKeydown = False
+        
+    # Tekst
+    nofill()
+    fill(0)
+    font("Helvetica", "bold", 20)
+    layout()
+    align("left")
+    layout(leading=7.3)
+    if len(inputText) > 0:          # alleen typen als aantal tekens groter is dan
+        text(inputText, currentField)   # plaats van tekst, x/y X/Y VERVANGEN DOOR CURRENTFIELD?
+        
+    #################################
